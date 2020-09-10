@@ -1,4 +1,6 @@
+import express from 'express'
+const app = express();
 
 it('runs server', () => {
-	expect(1).toEqual(1)
+	
 })
